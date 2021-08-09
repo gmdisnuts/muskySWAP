@@ -19,6 +19,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
+      "name": "Red Balloon Token",
+      "symbol": "RBL",
+      "address": "0xdef92bc56a25597dfdba4a10b453799729080d9a",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/pixel/logoSm.gif"
+    },
+    {
       "name": "Bakery Token",
       "symbol": "BAKE",
       "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
