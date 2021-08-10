@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap.finance/',
+    href: 'https://www.balloonswap.com/',
   },
   {
     label: 'Trade',
@@ -24,7 +24,7 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap.finance/farms',
+    href: 'https://www.balloonswap.com/farms',
   },
   // {
   //   label: 'Pools',
@@ -101,27 +101,27 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Contact',
-        href: 'https://docs.pancakeswap.finance/contact-us',
+        href: '#',
       },
       {
         label: 'Voting',
-        href: 'https://voting.pancakeswap.finance',
+        href: '#',
       },
       {
         label: 'Github',
-        href: 'https://github.com/pancakeswap',
+        href: '#',
       },
       {
         label: 'Docs',
-        href: 'https://docs.pancakeswap.finance',
+        href: '#',
       },
       {
         label: 'Blog',
-        href: 'https://pancakeswap.medium.com',
+        href: '#',
       },
       {
         label: 'Merch',
-        href: 'https://pancakeswap.creator-spring.com/',
+        href: '#',
       },
     ],
   },
