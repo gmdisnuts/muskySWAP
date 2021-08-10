@@ -97,7 +97,7 @@ export function useIsExpertMode(): boolean {
 
 export function useExpertModeManager(): [boolean, () => void] {
   const dispatch = useDispatch<AppDispatch>()
-  const expertMode = useIsExpertMode()
+  const expertMode = true
 
   const toggleSetExpertMode = useCallback(() => {
     dispatch(updateUserExpertMode({ userExpertMode: !expertMode }))

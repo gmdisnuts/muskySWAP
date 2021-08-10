@@ -437,10 +437,10 @@
     {
       "name": "RBL",
       "symbol": "RBL",
-      "address": "0xdef92bc56a25597dfdba4a10b453799729080d9a",
+      "address": "0x7c637018050676d6ab0b2d734957614ad5a5844c",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://exchange.balloonswap.com/images/coins/0xdef92bc56a25597dfdba4a10b453799729080d9a.png"
+      "logoURI": "https://exchange.balloonswap.com/images/coins/0x7c637018050676d6ab0b2d734957614ad5a5844c.png"
     },
     {
       "name": "Math",
