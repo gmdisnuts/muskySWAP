@@ -19,14 +19,6 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
-      "name": "Red Balloon Token",
-      "symbol": "RBL",
-      "address": "0xdef92bc56a25597dfdba4a10b453799729080d9a",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "/images/pixel/logoSm.gif"
-    },
-    {
       "name": "Bakery Token",
       "symbol": "BAKE",
       "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
@@ -443,12 +435,12 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbc5609612b7c44bef426de600b5fd1379db2ecf1.png"
     },
     {
-      "name": "Ditto",
-      "symbol": "DITTO",
-      "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
+      "name": "RBL",
+      "symbol": "RBL",
+      "address": "0xdef92bc56a25597dfdba4a10b453799729080d9a",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x233d91A0713155003fc4DcE0AFa871b508B3B715.png"
+      "logoURI": "https://exchange.balloonswap.com/images/coins/0xdef92bc56a25597dfdba4a10b453799729080d9a.png"
     },
     {
       "name": "Math",
