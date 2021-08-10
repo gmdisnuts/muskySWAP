@@ -23,7 +23,10 @@ const useGetPriceData = () => {
         const response = await fetch(api)
         const res: ApiResponse = await response.json()
 
-        setData(res)
+        console.log("PRICE DATA", res);
+
+        // setData(res)
+
       } catch (error) {
         console.error('Unable to fetch price data:', error)
       }
