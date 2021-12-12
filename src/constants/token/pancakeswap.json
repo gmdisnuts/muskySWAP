@@ -435,12 +435,12 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbc5609612b7c44bef426de600b5fd1379db2ecf1.png"
     },
     {
-      "name": "RBL",
-      "symbol": "RBL",
-      "address": "0x7c637018050676d6ab0b2d734957614ad5a5844c",
+      "name": "MuskyCash",
+      "symbol": "MuskyCash",
+      "address": "0x7c11add5a9ac5cd59f4b5f32a33e7d6f8e59aa73",
       "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://exchange.balloonswap.com/images/coins/0x7c637018050676d6ab0b2d734957614ad5a5844c.png"
+      "decimals": 18,
+      "logoURI": "https://exchange.muskyswap.net/images/coins/0x7c11add5a9ac5cd59f4b5f32a33e7d6f8e59aa73.png"
     },
     {
       "name": "Math",
