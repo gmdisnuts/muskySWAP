@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.balloonswap.com/',
+    href: 'https://www.muskyswap.net/',
   },
   {
     label: 'Trade',
@@ -24,7 +24,7 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.balloonswap.com/farms',
+    href: 'https://www.muskyswap.net/farms',
   },
   // {
   //   label: 'Pools',
